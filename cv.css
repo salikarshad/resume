@@ -1,0 +1,98 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background: rgb(35, 23, 77);
+    color: white;
+    
+}
+#image{
+    height: 130px;
+    width: 130px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+#web{
+    letter-spacing: 0.2em;
+    margin-top: 20px;
+}
+#name{
+letter-spacing: 0.4em;
+font-weight: bold;
+margin-top: 10px;
+}
+#underline{
+    width: 465px;
+    height: 8px;
+    margin-top: 20px;
+    background: rgba(252, 250, 250, 0.932);
+
+}
+/* header images web name underline the end */
+#exp{
+    background-color: darkgray;
+    padding: 10px;
+    margin-top: 5px;
+}
+/* experience the end */
+#rapper{
+    padding: 0px;
+    margin-top: 30px;
+}
+#span{
+    font-weight: bold;
+    padding-left: 70px;
+}
+#svg{
+    margin-left: 30px;
+}
+#pera{
+    padding-left: 170px;
+}
+#sp{
+    font-weight: bold;
+}
+#top{
+    margin-top: 100px;
+}
+/* colume 2 number */
+#rapper{
+    padding: 0px;
+    margin-top: 30px;
+}
+#span{
+    font-weight: bold;
+    padding-left: 70px;
+}
+#svg{
+    margin-left: 30px;
+}
+#pera{
+    padding-left: 170px;
+}
+#sp{
+    font-weight: bold;
+    margin-top: auto;
+}
+#top{
+    margin-top: 75px;
+}
+/* the end */
+#cont{
+    padding: 10px;
+    background-color: darkgray;
+}
+#skills{
+    padding: 10px;
+    background-color: darkgray;
+
+}
+/* the end */
+#spa{
+    
+    padding-left: 70px;
+}
+/* skills start */
+#conskill{
+    padding-bottom: 20px;
+}
